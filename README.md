@@ -1,5 +1,4 @@
 ### Olá! Me chamo João Vitor(jao241). Prazer em conhecê-lo(a). 👋
----
 <h2>Eu atualmente:</h2> 
 <ul>
   <li>🔭 Trabalho na prefeitura da minha cidade...</li>
