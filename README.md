@@ -2,7 +2,7 @@
 <h2>Eu atualmente:</h2> 
 <ul>
   <li>🔭 Trabalho na prefeitura da minha cidade...</li>
-  <li>🌱 Estudo e desenvolvo JavaScript, TypeScript, Java...</li>
+  <li>🌱 Estudo e desenvolvo em JavaScript, TypeScript, Java...</li>
   <li>💬 Me chamem nas redes sociais, vamos trocar ideias ou discutir sobre algo...</li>
 </ul>
 <h2>Contato:</h2>
