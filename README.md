@@ -1,9 +1,5 @@
 ### Olá! Me chamo João Vitor(jao241). Prazer em conhecê-lo(a). 👋
-<h2>Eu atualmente:</h2> 
-<ul>
-  <li>🌱 Estudo e desenvolvo aplicações web com HTML, CSS, JS, Vue, Quasar, NestJS, PrismaORM, TypeORM, Docker...</li>
-  <li>💬 Me chamem nas redes sociais, vamos trocar ideias ou discutir sobre algo...</li>
-</ul>
+<p>Sou um desenvolvedor de software fullstack focado do desenvolvimento de soluções web e criação de APIs.</p>
 <h2>Contato:</h2>
   <a href = "mailto:vorque45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-vitor-5856b7204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
