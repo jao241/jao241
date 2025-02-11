@@ -18,5 +18,16 @@
   <img align="center" alt="jao-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/quasar/quasar-plain.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="jao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-plain.svg">
 </div>
 
