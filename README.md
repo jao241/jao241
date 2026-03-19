@@ -1,7 +1,8 @@
 ## Olá! Eu sou o João Vitor 👋
 
-Sou **Desenvolvedor Full Stack Web**, com foco no desenvolvimento de **aplicações web** e **APIs REST**.  
-Atuo principalmente com **Laravel (PHP)** no backend e **Vue.js com TypeScript** no frontend, trabalhando em sistemas web em produção, integrações de APIs e bancos de dados relacionais.
+Desenvolvedor Full Stack focado na construção de aplicações web escaláveis e APIs REST.
+
+Experiência com Laravel no backend e Vue.js com TypeScript no frontend, atuando no desenvolvimento de sistemas em produção e integrações com APIs e bancos relacionais.
 
 ---
 
