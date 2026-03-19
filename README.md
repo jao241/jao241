@@ -17,13 +17,31 @@ Experiência com Laravel no backend e Vue.js com TypeScript no frontend, atuando
 
 ---
 
-### 🛠️ Tecnologias Complementares
+### ⚙️ Backend & APIs
 <div style="display: inline_block"><br>
-  <img align="center" alt="PostgreSQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
-  <img align="center" alt="Angular" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
-  <img align="center" alt="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Node.js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="NestJS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/>
+</div>
+
+---
+
+### 🎨 Frontend
+<div style="display: inline_block"><br>
+  <img align="center" alt="Angular" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
+  <img align="center" alt="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+</div>
+
+---
+
+### 🗄️ Banco de Dados
+<div style="display: inline_block"><br>
+  <img align="center" alt="PostgreSQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
+</div>
+
+---
+
+### ⚙️ DevOps & Ferramentas
+<div style="display: inline_block"><br>
   <img align="center" alt="Docker" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"/>
   <img align="center" alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 </div>
